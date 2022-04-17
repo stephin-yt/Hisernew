@@ -1,3 +1,7 @@
+<div align="center">
+
+  ![Hiser Logo](https://github.com/stephin-yt/Hisernew/blob/master/hiser%20intro.gif)
+    
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
